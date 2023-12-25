@@ -190,7 +190,7 @@
   margin: 2px; /* для полного отображения оутлайна при табуляции (иначе некоторые края съедаются) */
 }
 
-.surch-form__fieldset-title {
+.search-form__fieldset-title {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-weight: 400;

@@ -90,7 +90,7 @@
 .search-form {
   display: flex;
   justify-content: start;
-  align-items: end;
+  align-items: start;
   gap: 40px;
 }
 
@@ -181,6 +181,7 @@
 .search-form__submit-button {
   inline-size: 194px;
   block-size: 34px;
+  align-self: end;
 }
 
 .more-button {
